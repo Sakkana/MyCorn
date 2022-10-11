@@ -4,6 +4,7 @@ project structure:
 ##### class: Shader
 ##### class: Camera
 - [x] 待解决：增加鼠标拖拽改变欧拉角的交互
+- [ ] 增强拖拽的真实感, 操作更细腻
 - [ ] 修复鼠标缩放响应消失问题
 ##### class: Model
 ##### class: Mesh
